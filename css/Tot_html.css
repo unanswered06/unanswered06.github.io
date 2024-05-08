@@ -62,6 +62,8 @@ h1 {
   font-size: 48px;
   margin-bottom: 20px;
  color: rgb(255, 0, 0);
+ font-weight: bold;
+
 }
 
 p {
@@ -78,6 +80,8 @@ H2{
   text-align: center;
   color:#fff;
   border: 3px solid  #ffffff;
+  font-weight: bold;
+
 }
 #Modo{
   background-color: #83419d ;
@@ -211,6 +215,7 @@ h3{
   letter-spacing: 4px;
   border: 3px solid  #d8d8f1;
   background-color: #d8d8f1;
+  font-weight: bold;
 
 }
 dt{
@@ -229,6 +234,8 @@ h5{
   font-size: 30px;
   font-size: 25px;
   border: 2px solid #ffffff;
+  font-weight: bold;
+
 
 }
 #observado_xd{
@@ -315,6 +322,7 @@ footer{
   font-size: 17px;
   border: 1px solid  #0e0e0e;
   color: #fff;
+  
 }
 #imagen8{
   width: 500px;
