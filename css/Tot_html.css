@@ -135,7 +135,6 @@ H2{
   color: #ffffff;
   height: 90px;
 
- 
 }
 #imagen2 {
   width: 700px;
@@ -297,4 +296,32 @@ dl{
 footer{
   background-color: #6c446d;
   color: #ffffff;
+}
+
+#Multijugador{
+  width: 700px;
+  margin: 0px auto;
+  background-color:  #ffffff ;
+  font-size: 35px;
+  text-align: center;
+  border: 1px solid  #ffffff;
+}
+#TExtoM{
+  width: 700px;
+  margin: 0px auto;
+  background-color:  #6c446d ;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 17px;
+  border: 1px solid  #0e0e0e;
+  color: #fff;
+}
+#imagen8{
+  width: 500px;
+  margin: 9px auto;
+  background-color:  #553556 ;
+  top: 1000px;
+  text-align: center;
+  color: #ffffff;
+  height: 300px;
 }
