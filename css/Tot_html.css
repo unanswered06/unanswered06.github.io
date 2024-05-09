@@ -333,3 +333,15 @@ footer{
   color: #ffffff;
   height: 300px;
 }
+#Resume{
+  background-color: #400e54 ;
+  width: 700px;
+  margin: 0px auto;
+  font-size: 50px;
+  height: 65px;
+  letter-spacing: 15px;
+  text-align: center;
+  color:#fff;
+  border: 3px solid  #ffffff;
+  font-weight: bold;
+}
