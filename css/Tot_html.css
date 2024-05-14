@@ -345,3 +345,19 @@ footer{
   border: 3px solid  #ffffff;
   font-weight: bold;
 }
+#anuncio{
+  width: 700px;
+  font-size: 40px;
+
+}
+video{
+  text-align: center;
+  width: 800px;
+  margin: 9px auto;
+  position: center;
+  height: 1100%;
+  display:block;
+
+
+
+}
