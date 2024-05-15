@@ -35,7 +35,7 @@ header {
   background-image: url(imagenes/fotoprincipal.png);
   background-size: cover;
   background-position: center;
-  height: 350px;
+  height: 300px;
   position: relative;
   border: 5px solid #333;
   background-color: rgba(133, 122, 122, 0.8);
