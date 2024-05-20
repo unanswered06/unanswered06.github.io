@@ -31,7 +31,6 @@ nav a:hover {
   background-color: #444;
 }
 header {
-/*background-image: url(fotos/fotoprincipal.png);*/
   background-image: url(imagenes/fotoprincipal.png);
   background-size: cover;
   background-position: center;
@@ -357,7 +356,4 @@ video{
   position: center;
   height: 1100%;
   display:block;
-
-
-
 }
