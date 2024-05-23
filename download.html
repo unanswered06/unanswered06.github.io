@@ -25,9 +25,26 @@
             text-decoration: none;
             border-radius: 5px;
             margin-top: 20px;
+            
         }
+        
+        .download-link, button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #ff5722;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            margin: 20px 10px;
+            font-size: 1.2em;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
         .download-link:hover {
             background-color: #45a049;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+
         }
         #imagen{
             display: inline-block;
@@ -37,6 +54,10 @@
             margin-top: 20px; 
             margin: auto;
             height: 400px;
+        }
+        .download-link:hover, button:hover {
+            background-color: #00903a;
+            transform: scale(1.05);
         }
     </style>
 </head>
